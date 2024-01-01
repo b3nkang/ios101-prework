@@ -1,10 +1,25 @@
-- Improve the UI by using different fonts/colors/background
-- Feel free to play around with other elements, such as image views, textfields, etc.
-- Iplement a way to change the color of the text as well
+# Prework - *About Me*
 
-##App Brainstorming
+Submitted by: **Ben Kang**
 
-Favorite applications: 
+**About Me** is an app that tells you a little about me!
+
+Time spent: **1** hour spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [ ] Users are see a screen with three labels and a button
+- [ ] Tapping the button changes the screen color to a random color
+ 
+## Video Walkthrough
+
+N/A - It's just the prework project, with nothing additional!
+
+## App Brainstorming (Step 4)
+
+#### Favorite applications: 
 - Beli (food rating app)
     - How restaurants are rated relative to each other, so the rating generated is organic
     - How one can see friends' ratings
@@ -18,7 +33,6 @@ Favorite applications:
     - How, despite the ability for servers to grow expansively with many channels, the UI is fairly intuitive, organized, and navigable
     - How there are multiple modes of communication and types of way to communicate within the same server: stages, voice chats, threads, and more
     
-App Idea:
+#### App Idea:
 
-One of the great problems of the internet lies in our photos: where to find them. As a child of the "gen-z" era, I generally wish to track down a photo with as little energy as possible, yet, in the age of saved TikToks, meme screenshots, and other forms of camera-roll clutter, it can often prove a challenge. Current camera-roll organization mechanisms——filtering, albums, etc——are woefully insufficient, eithering taking too much manual labor or being inadequate in their sorting. So, what if we created an app, built for screenshots and clutter, that automatically——and intelligently——cataloged one's images? We could use both photo metadata and computer vision to detect social media platforms (Reddit and TikTok, for example, are quite recognizable), allowing for intelligent albums that reduce clutter between memories and mere screenshots. The app would first have to be a lower-level clone of any standard photos app, but with additional functionality built on top, allowing for an intelligent "screenshot sorter".
-
+One of the great problems of the internet lies in our photos: where to find them. As a child of the "gen-z" era, I generally wish to track down a photo with as little energy as possible, yet, in the age of saved TikToks, meme screenshots, and other forms of camera-roll clutter, it can often prove a challenge; current organization features—filtering, albums, etc—are woefully insufficient. So, what if we created an app, built for screenshots and clutter, that automatically and intelligently cataloged one's images? We could use both photo metadata and computer vision to detect social media platforms (e.g. Reddit and TikTok are quite recognizable), allowing for curated albums that reduce clutter between memories and mere screenshots. The app would first have to be a lower-level clone of any standard photos app, but with additional functionality built on top, allowing for an intelligent "screenshot sorter".

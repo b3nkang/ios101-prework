@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
-#### Favorite applications: 
+#### Favorite applications; things I like about...
 - Beli (food rating app)
     - How restaurants are rated relative to each other, so the rating generated is organic
     - How one can see friends' ratings

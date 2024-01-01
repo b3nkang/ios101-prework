@@ -4,7 +4,7 @@ Submitted by: **Ben Kang**
 
 **About Me** is an app that tells you a little about me!
 
-Time spent: **1** hour spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 

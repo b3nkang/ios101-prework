@@ -15,7 +15,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-N/A - It's just the prework project, with nothing additional!
+[Guide]](https://www.loom.com/share/27463ea573f94181bbc3499bb66825e7?sid=a0713cf3-144e-4272-8a89-77698a481a34
+) .
 
 ## App Brainstorming (Step 4)
 
